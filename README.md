@@ -19,8 +19,8 @@
 <img align="left" alt="Ubuntu" width="115px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
 <br />
-   
-_________________________________________________________________________________________________________________
+<br />
+_______________________________________
 <details>
   <summary>:zap: GitHub Stats</summary>
 
