@@ -1,6 +1,6 @@
 # Hello World! I'm Thais. 👋🏽
 
- <iframe src="https://giphy.com/embed/5ndklThG9vUUdTmgMn" width="339" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-working-stressed-5ndklThG9vUUdTmgMn">via GIPHY</a></p>
+ <img align="right" alt="GIF" src="https://giphy.com/embed/5ndklThG9vUUdTmgMn" width="500" height="320" />
 
 ### 👩🏾‍💻 I'm a Full Stack Web Development student at Driven.
 ### 👩🏾‍🔬 And a student of Mathematics and Earth Sciences at UFRJ.
