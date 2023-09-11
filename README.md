@@ -1,9 +1,9 @@
 # Hello World! I'm Thais. 👋🏽
 
-### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist.
-#### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro.
-💻 I'm deepening my knowledge in various web technologies.
-🏗 I'm actively building my portfolio.
+### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
+#### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
+💻 I'm deepening my knowledge in various web technologies. <br />
+🏗 I'm actively building my portfolio. <br />
 🎻 Fun fact: I'm also a violin enthusiast.
 
 <br />
