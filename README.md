@@ -1,4 +1,4 @@
-# Hello World! I'm Thais. 👋🏽
+ <img alt="Header" src="https://media.licdn.com/dms/image/D4D16AQHyNqdZYUvSyg/profile-displaybackgroundimage-shrink_350_1400/0/1692569856006?e=1700092800&v=beta&t=N0Ez8T1jy1ABgpCwaEqN1NnugINo4V-pabP4KpQJjWM" />
 
 ### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
 #### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
