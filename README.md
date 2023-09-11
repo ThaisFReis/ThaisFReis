@@ -1,17 +1,4 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsHs6pxhw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" />
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsHs6pxhw&#x2F;view?utm_content=DAFsHs6pxhw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> de Thais Reis
-
-### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
-#### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
-💻 I'm deepening my knowledge in various web technologies. <br />
-🏗 I'm actively building my portfolio. <br />
-🎻 Fun fact: I'm also a violin enthusiast.
-
-<br />
+# Hello World! I'm Thais. 👋🏽
 
 ### Languages and Tools:
 <p align="left">
