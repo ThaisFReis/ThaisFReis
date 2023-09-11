@@ -43,17 +43,3 @@
 </p>
 
 <br />
-__________________________________________________________________________________________
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThaisFReis" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="center" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFReis" />
-
-</details>
