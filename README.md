@@ -1,5 +1,12 @@
 # Hello World! I'm Thais. 👋🏽
 
+## 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. </ br>
+### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. </ br>
+#### 🏢 I'm currently working at Beplauze in both the finance and data analysis sectors. </ br>
+#### 📊 I'm also involved in ETL research as part of my scientific initiation at CAPGov. </ br>
+##### 🏗 I'm actively building my portfolio. </ br>
+##### 🎻 Fun fact: I'm also a violin enthusiast. </ br>
+
 ### Languages and Tools:
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
