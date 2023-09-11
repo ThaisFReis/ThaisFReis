@@ -1,6 +1,9 @@
 # Hello World! I'm Thais. 👋🏽
 
 ## 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
+
+<br />
+
 ### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
 ### 🏢 I'm currently working at Beplauze in both the finance and data analysis sectors. <br />
 ### 📊 I'm also involved in ETL research as part of my scientific initiation at CAPGov. <br />
