@@ -1,10 +1,10 @@
 # Hello World! I'm Thais. 👋🏽
 
-### 👩🏾‍💻 I'm a Full Stack Web Development student at Driven.
-#### 👩🏾‍🔬 And a student of  Natural Sciences And Mathematics at Federal University of Rio de Janeiro.
-💻 I'm currently learning React. <br />
-🏗 I'm still building my portfolio. <br />
-🎻 Fun fact: I'm also a violin student.
+### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist.
+#### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro.
+💻 I'm deepening my knowledge in various web technologies.
+🏗 I'm actively building my portfolio.
+🎻 Fun fact: I'm also a violin enthusiast.
 
 <br />
 
