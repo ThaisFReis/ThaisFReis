@@ -1,7 +1,7 @@
 # Hello World! I'm Thais. 👋🏽
 
+<br />
 ## 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
-
 <br />
 
 ### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
