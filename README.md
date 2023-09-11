@@ -1,11 +1,5 @@
 # Hello World! I'm Thais. 👋🏽
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thaisfreis/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ## 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
 
 ### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
