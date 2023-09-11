@@ -1,4 +1,11 @@
- <img alt="Header" src="https://media.licdn.com/dms/image/D4D16AQHyNqdZYUvSyg/profile-displaybackgroundimage-shrink_350_1400/0/1692569856006?e=1700092800&v=beta&t=N0Ez8T1jy1ABgpCwaEqN1NnugINo4V-pabP4KpQJjWM](https://www.canva.com/design/DAFsHs6pxhw/KltasLWTf2hRClgU1qPGbQ/watch?utm_content=DAFsHs6pxhw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFsHs6pxhw/view" />
+<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsHs6pxhw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsHs6pxhw&#x2F;view?utm_content=DAFsHs6pxhw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> de Thais Reis
 
 ### 👩🏾‍💻 I'm a Full Stack Web Developer and a Data Scientist. <br />
 #### 👩🏾‍🔬 Currently pursuing a degree in Natural Sciences and Mathematics at Federal University of Rio de Janeiro. <br />
