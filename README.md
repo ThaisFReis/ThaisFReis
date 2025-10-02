@@ -84,12 +84,6 @@ I'm a **Full Stack Developer** with strong expertise in **Front-End** and a grow
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFReis&layout=compact&theme=radical)
-
----
-
 ### 🌐 Featured Projects
 
 #### 🎫 [Event Horizon](https://tickets-jue9.vercel.app/)
