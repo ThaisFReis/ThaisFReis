@@ -78,7 +78,7 @@ I'm a **Full Stack Developer** with strong expertise in **Front-End** and a grow
 
 - 🥇 **1st Place** - Morro Makers Hackathon (Jaspr AI Chatbot)
 - 🥈 **2nd Place** - LiveMode Hackathon (CRI.A Content AI)
-- 🌐 **Finalist** - Meridian Web3 Hackathon (DeFi Platform)
+- 🌐 **Participant** - Meridian Web3 Hackathon (DeFi Platform)
 - 🤖 **Participant** - Bemobi Hackathon (AI Churn Prevention)
 - 💻 **20+ Projects** completed during Full Stack bootcamp at Driven Education
 
