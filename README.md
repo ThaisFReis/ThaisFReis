@@ -86,8 +86,6 @@ I'm a **Full Stack Developer** with strong expertise in **Front-End** and a grow
 
 ### 📊 GitHub Stats
 
-![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaisFReis&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFReis&layout=compact&theme=radical)
 
 ---
