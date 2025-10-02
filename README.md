@@ -101,8 +101,8 @@ Decentralized NFT ticketing marketplace built with React, Solidity, and Hardhat.
 
 ---
 
-#### 🏦 Decentralized Digital Bank
-DeFi platform with smart contract-based financial services including staking and yield farming. Built for Meridian Web3 Hackathon.
+#### 🏦 Decentralized Digital Bank ([https://tickets-jue9.vercel.app/](https://gaba-bank.vercel.app/))
+DeFi platform built for Meridian Hackathon. Features smart contracts for decentralized banking operations and financial services. (Mock demonstration)
 
 **Tech Stack:** React • Solidity • Web3.js • DeFi Protocols • Smart Contracts
 
@@ -116,16 +116,16 @@ AI-powered chatbot for the hospitality industry. Streamlined onboarding flow and
 ---
 
 #### 📱 CRI.A (🥈 2nd Place Winner)
-AI content assistant for CazéTV leveraging Google Gemini API for real-time social media post generation about sports events.
+AI agent system for creating personalized social media content for CazéTV. Built with n8n workflow automation, integrating Google Gemini API for content generation and SerpAPI for real-time data enrichment..
 
 **Tech Stack:** React • Tailwind CSS • Google Gemini API • SerpAPI • N8N
 
 ---
 
-#### 🔄 AI Churn Prevention Agent
-Intelligent system that analyzes user behavior patterns to predict and prevent customer churn through proactive AI-driven interventions.
+#### 🔄 Sentinela
+Autonomous AI agent that reacts in real-time to payment failures, automating recovery through intelligent and empathetic interactions. Features live chat, LangChain integration.
 
-**Tech Stack:** React • TypeScript • AI/ML • Data Analytics
+**Tech Stack:** React • TypeScript • Node.js • Express • LangChain • Tailwind CSS • Vite • Jest
 
 ---
 
