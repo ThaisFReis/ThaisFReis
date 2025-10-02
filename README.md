@@ -124,7 +124,7 @@ Autonomous AI agent that reacts in real-time to payment failures, automating rec
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisfreis/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/ThaisFReis](https://portfolio2025-thais.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2025-thais.vercel.app/)
 
 ---
 
