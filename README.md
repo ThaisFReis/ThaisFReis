@@ -4,7 +4,7 @@ Full Stack Engineer & Founder of the Karn Ecosystem, building scalable Web3 infr
 
 - 🏗️ **Founder & Lead Engineer** at Karn Ecosystem.
 - 🎓 BSc student (Mathematical and Earth Sciences) at Federal University of Rio de Janeiro (UFRJ).
-- 🏆 **3x Hackathon Winner:** Morro Makers (1st place, Jaspr), Ethereum Argentina (2nd place, MintWork), and LiveMode (2nd place, CRI.A).
+- 🏆 **3x Hackathon Winner:** Morro Makers (1st place, Jaspr), Monad Blitz (1nd place, Moments), and LiveMode (2nd place, CRI.A).
 - 💻 **Stack:** React/Next.js + TypeScript, Node.js/Express, Prisma/Postgres, Python.
 - 🔗 **Smart contracts:** Rust (Soroban) and Solidity.
 - 🏢 Former Full Stack Dev at Nola, Front-End Dev at Beplauze, and Data Engineering Researcher at CAPGov.
