@@ -22,7 +22,6 @@ Rio de Janeiro, Brazil · [dalekthai.xyz](https://dalekthai.xyz) · [LinkedIn](h
 | --- | --- |
 | [karn-protocol](https://github.com/ThaisFReis/karn-protocol) | Governance contracts on Soroban: Valocracy, Governor, Treasury. Rust, MIT. [Security hardening notes](https://github.com/ThaisFReis/karn-protocol/blob/main/docs/SECURITY_HARDENING.md). |
 | [@karn_lat/protocol-sdk](https://www.npmjs.com/package/@karn_lat/protocol-sdk) | Typed TS SDK for those contracts, multi-wallet (Freighter, Lobstr, xBull) with React hooks. |
-| [velum](https://github.com/ThaisFReis/velum) | Holder-attested compliance for confidential tokens on Stellar: proving a position sits under a regulatory threshold without revealing the amount. Noir circuits. |
 | [monad-moments](https://github.com/ThaisFReis/monad-moments) | One photo a day as an ERC-721, with the one-per-UTC-day limit enforced by the contract rather than the UI. |
 | [mise](https://github.com/ThaisFReis/mise) | Multi-store analytics for restaurants, with model-generated recommendations over the store data. |
 
