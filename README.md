@@ -1,72 +1,61 @@
 # Thais Reis
 
-Full Stack Engineer & Founder of the Karn Ecosystem, building scalable Web3 infrastructures and AI-driven applications.
+Full-stack protocol engineer. I write the contract in Rust, the API behind it, the interface on top and the pipeline that puts it in production.
 
-- 🏗️ **Founder & Lead Engineer** at Karn Ecosystem.
-- 🎓 BSc student (Mathematical and Earth Sciences) at Federal University of Rio de Janeiro (UFRJ).
-- 🏆 **3x Hackathon Winner:** Morro Makers (1st place, Jaspr), Monad Blitz (1nd place, Moments), and LiveMode (2nd place, CRI.A).
-- 💻 **Stack:** React/Next.js + TypeScript, Node.js/Express, Prisma/Postgres, Python.
-- 🔗 **Smart contracts:** Rust (Soroban) and Solidity.
-- 🏢 Former Full Stack Dev at Nola, Front-End Dev at Beplauze, and Data Engineering Researcher at CAPGov.
+CTO at Plina Finance · sole engineer at [Yalla](https://yallaeveryday.com) · founder of [Karn](https://github.com/ThaisFReis/karn-protocol)
+
+Rio de Janeiro, Brazil · [dalekthai.xyz](https://dalekthai.xyz) · [LinkedIn](https://www.linkedin.com/in/thaisfreis) · reis.thaisf@gmail.com
 
 ---
 
-## Current Focus
+## Now
 
-- **Karn Ecosystem (Founder)**: A dual-layer open-source ecosystem combining blockchain governance infrastructure with a social impact program. 
-  - **Karn Protocol**: Contribution-weighted governance on Stellar/Soroban using non-transferable reputation (Soulbound tokens), **Mana** (voting influence), and **time decay** to prioritize active contributors. Modules: Valocracy, Governor, Treasury.
-  - **Karn dApp**: Full-stack reference implementation with AES-256-GCM encryption, Stellar wallet signature verification, and governance-gated treasury flows.
+**Plina Finance** — CTO since May 2026. On-chain infrastructure for the institutional tokenization of credit rights on Stellar. Tokenizing credit rights is a regulated problem before it is a technical one, so the architecture puts native authorization controls and regulated anchors at the center: asset issuance on Stellar, USDC/EURC and anchor flows, Soroban contracts, Node.js backend, React institutional front end.
 
----
+**Yalla** — only engineer since March 2026, in production in Brazil. B2B ticketing where tickets are issued on Stellar and the transfer policy is written on-chain and immutable, so the rules a buyer agreed to outlive any change of mind on the platform side. Two upgradeable Soroban contracts with a minter allowlist and the admin and upgrade authorities kept deliberately disjoint; Express/Prisma API; Next.js producer panel; Mercado Pago and Stripe Connect; five GitHub Actions workflows and ten runbooks, including rollback and the cutover for upgrading a live contract. Everything but the mobile app.
 
-## Selected Work
+**Karn** — founder since January 2026. Open-source governance protocol on Stellar where voting power follows contribution instead of capital: soulbound credentials plus Mana, a reputation score with linear decay, so influence has to be re-earned rather than accumulated and parked. Three Soroban contracts in Rust, 53 tests, five security findings resolved and documented, and a typed TypeScript SDK published on npm.
 
-- **Karn Protocol (Soroban)**: Governance infrastructure for contribution economies + TypeScript SDK (`@karn_lat/protocol-sdk`).  
-  Repo: [karn-protocol/karn](https://github.com/karn-protocol/karn)
-- **MintWork**: Decentralized recruitment protocol built on Scroll L2 with on-chain reputation management (Ethereum Argentina Hackathon winner).
-- **Jaspr**: AI chatbot for hospitality (Morro Makers Hackathon 1st place).
-- **CRI.A**: AI content assistant (n8n + Gemini + SerpAPI).
+## Public code
 
----
+| Repo | What it is |
+| --- | --- |
+| [karn-protocol](https://github.com/ThaisFReis/karn-protocol) | Governance contracts on Soroban: Valocracy, Governor, Treasury. Rust, MIT. [Security hardening notes](https://github.com/ThaisFReis/karn-protocol/blob/main/docs/SECURITY_HARDENING.md). |
+| [@karn_lat/protocol-sdk](https://www.npmjs.com/package/@karn_lat/protocol-sdk) | Typed TS SDK for those contracts, multi-wallet (Freighter, Lobstr, xBull) with React hooks. |
+| [velum](https://github.com/ThaisFReis/velum) | Holder-attested compliance for confidential tokens on Stellar: proving a position sits under a regulatory threshold without revealing the amount. Noir circuits. |
+| [monad-moments](https://github.com/ThaisFReis/monad-moments) | One photo a day as an ERC-721, with the one-per-UTC-day limit enforced by the contract rather than the UI. |
+| [mise](https://github.com/ThaisFReis/mise) | Multi-store analytics for restaurants, with model-generated recommendations over the store data. |
 
-## Technical Arsenal
+## Record
 
-### Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+| | |
+| --- | --- |
+| Jul 2026 | Selected for the [Stellar Builder Summit](https://livecoins.com.br/brasil-recebe-encontro-global-da-stellar-para-desenvolver-nova-geracao-de-aplicacoes-blockchain/), São Paulo. ~100 builders, eight days, invited on the strength of Plina Finance. |
+| Jun 2026 | Stellar Instaward for Plina Finance, through [Stellar 37°](https://livecoins.com.br/stellar-37-graus-chega-ao-rio-de-janeiro-com-premiacao-inicial-20-mil-em-usdc-para-startups/), the acceleration program NearX runs with the Stellar Development Foundation. |
+| May 2026 | Prelúdio, Yalla's first event run end to end in production: 113 tickets across 8 lots, 98 people through the door, 257 of 269 bar vouchers redeemed, none expired. |
+| Mar 2026 | 1st place, Monad Blitz Rio de Janeiro, with Monad Moments. |
+| Feb 2026 | Karn Protocol open-sourced under MIT. |
+| Oct 2025 | 1st place, Hackathon Nola, with Mise. |
+| Aug 2025 | 1st place, Morro Makers, with Jaspr: a multi-tenant AI concierge for hotels, answering from each hotel's own data rather than inventing it. |
 
-### Back-End & Data
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Before
 
-### Blockchain & Web3
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+**Nola** (Oct 2025 – Jan 2026) — automated testing across React, Node.js and React Native with Jest, Vitest and Cypress, plus cross-stack debugging that cut crash rates.
 
-### Tools & Testing
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+**CAPGov** (Jun 2023 – Aug 2026) — undergraduate research in ETL. Pipelines in Python and SQL over large public datasets, a containerized environment that comes up in one command, and validation at ingest so a bad row is caught before someone cites it.
 
-### AI & Automation
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+**Beplauze** (Jul 2023 – Mar 2025) — led the migration to microfrontends with Astro so each surface could ship without waiting on the rest, and built a 40+ component React library documented in Storybook.
+
+## Stack
+
+**Languages** — TypeScript, Rust, Python, SQL
+**Chain** — Stellar, Soroban, Solidity, Noir, Privy, USDC/EURC
+**Product** — React, Next.js, Astro, Node.js, Express, Prisma, PostgreSQL, Redis, GraphQL
+**Delivery** — Docker, AWS ECS, GitHub Actions, Prometheus, Turborepo
+**Testing** — Jest, Vitest, Cypress
+
+I write the tests, the runbooks and the docs alongside the code, not afterwards. What I deliver has to run without me.
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisfreis/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2025-thais.vercel.app/)
+BSc in Mathematical and Earth Sciences, UFRJ. Portuguese and English.
