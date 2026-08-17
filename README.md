@@ -48,7 +48,7 @@ Rio de Janeiro, Brazil · [dalekthai.xyz](https://dalekthai.xyz) · [LinkedIn](h
 ## Stack
 
 **Languages** — TypeScript, Rust, Python, SQL
-**Chain** — Stellar, Soroban, Solidity, Noir, Privy, USDC/EURC
+**Chain** — Stellar, Soroban, Solidity, Privy, USDC/EURC
 **Product** — React, Next.js, Astro, Node.js, Express, Prisma, PostgreSQL, Redis, GraphQL
 **Delivery** — Docker, AWS ECS, GitHub Actions, Prometheus, Turborepo
 **Testing** — Jest, Vitest, Cypress
